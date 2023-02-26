@@ -1,3 +1,3 @@
-i. Nama:Rivanaldy Rahman
-ii. Stack:front-end
-iii. Hobby: Futsal
+-i. Nama:Rivanaldy Rahman
+-ii. Stack:front-end
+-iii. Hobby: Futsal
